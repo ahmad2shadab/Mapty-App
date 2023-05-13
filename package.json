@@ -1,0 +1,23 @@
+{
+  "name": "mapty",
+  "version": "1.0.0",
+  "description": "geolocation app",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmad2shadab/Mapty-App.git"
+  },
+  "author": "Shadab Ahmad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmad2shadab/Mapty-App/issues"
+  },
+  "homepage": "https://github.com/ahmad2shadab/Mapty-App#readme",
+  "dependencies": {
+    "parcel": "^2.8.3"
+  }
+}
