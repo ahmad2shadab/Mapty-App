@@ -4,17 +4,19 @@
 The Mapty app is a user-friendly web application designed for outdoor enthusiasts to log their cycling and running workouts. It automatically detects your current location using your IP address and allows you to mark any location on the map to log a workout. Users can specify the type of workout (cycling or running) and the distance covered.
 
 ## Features
-- **Location Detection:** Automatically detects your current location using your IP address when you open the app.
-- **Activity Logging:** Users can click anywhere on the map to mark the start of their workout. A sidebar popup will appear, prompting the user to fill in details about their activity.
-- **Workout Options:** Users have the option to categorize their activity as either cycling or running.
-- **Distance Tracking:** For each activity, users can input the distance covered in miles.
+- **Location Detection**: Automatically detects your current location using your IP address.
+- **Interactive Workout Logging**: Users can click anywhere on the map to mark the start of their workout. A detailed sidebar popup allows for the comprehensive logging of workout details.
+- **Enhanced Workout Options**: Beyond simply categorizing activities as cycling or running, users can input distance (in km), duration (in minutes), elevation gain (in meters), and cadence (for running), making for a detailed workout log.
+- **Distance and Duration Tracking**: Allows for precise input of the distance covered (in km) and the duration of the workout (in minutes).
+- **Elevation Gain Tracking**: Records the elevation gain (in meters) during the workout, providing valuable insights into terrain challenges.
+- **Cadence Tracking**: For running workouts, users can record their cadence (steps/min), adding another layer of detail to their workout logs.
 
 ![Mapty App in Action](https://yourimageurl.com/screenshot.png)
 
 ## How to Use
 1. **Open the App:** Launch the Mapty app. It will automatically detect and display your current location on the map.
 2. **Mark Your Activity:** Click on the desired location on the map where you wish to start your workout. This action places a marker on the map.
-3. **Log Your Workout:** In the sidebar popup, select the type of workout (cycling or running) and enter the distance you covered.
+3. **Log Your Workout Details**: In the sidebar popup, fill in the workout type (cycling or running), distance (in km), duration (in minutes), elevation gain (in meters), and cadence (for running), as applicable.
 4. **Review and Edit:** You can view all your logged activities on the map. Click on any marker to see the details or to edit them.
 
 ## Setup
