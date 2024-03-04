@@ -11,7 +11,7 @@ The Mapty app is a user-friendly web application designed for outdoor enthusiast
 - **Elevation Gain Tracking**: Records the elevation gain (in meters) during the workout, providing valuable insights into terrain challenges.
 - **Cadence Tracking**: For running workouts, users can record their cadence (steps/min), adding another layer of detail to their workout logs.
 
-![Mapty App in Action](https://yourimageurl.com/screenshot.png)
+![Mapty App in Action](assets/mapty-interface.png)
 
 ## How to Use
 1. **Open the App:** Launch the Mapty app. It will automatically detect and display your current location on the map.
